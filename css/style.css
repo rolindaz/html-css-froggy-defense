@@ -1,0 +1,21 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.container {
+    display: flex;
+    justify-content: space-evenly;
+    font-family: 'Courier New', Courier, monospace;
+    align-content: center;
+}
+img {
+    width: 550px;
+    padding: 0.5em;
+    border: 5px solid purple;
+}
+h2 {
+    text-align: center;
+    font-size: 30px;
+    padding: 1em 0;
+}
